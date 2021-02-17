@@ -1,3 +1,4 @@
+*.tmp
 # Word
 *.docx
 ~$*.doc*
