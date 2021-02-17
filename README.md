@@ -1,3 +1,4 @@
+![](https://github.com/KeethSpindler/Nomoth/blob/master/assets/logo/Nomoth-Logo-Script.png?raw=true)
 # Nomoth Project Management System
 
 ## Introduction
